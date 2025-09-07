@@ -5,7 +5,7 @@ It allows you to create a payment **Intention** and generate a **Unified Checkou
 
 ## ▶️ How to Run the Script
 
-1. **Create `.env` file** in the project root and add your Paymob credentials:
+**Create `.env` file** in the project root and add your Paymob credentials:
 
    ```env
    SECRET_KEY=your_secret_key_here
